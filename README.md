@@ -21,6 +21,7 @@ This is repository for daily leetcode challenges.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/honu5/LeetCode_Daily/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/honu5/LeetCode_Daily/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/honu5/LeetCode_Daily/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Dynamic Programming
@@ -51,4 +52,8 @@ This is repository for daily leetcode challenges.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/honu5/LeetCode_Daily/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/honu5/LeetCode_Daily/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 <!---LeetCode Topics End-->
