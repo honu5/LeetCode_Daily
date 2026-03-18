@@ -8,6 +8,7 @@ This is repository for daily leetcode challenges.
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/honu5/LeetCode_Daily/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/honu5/LeetCode_Daily/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/honu5/LeetCode_Daily/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -18,6 +19,7 @@ This is repository for daily leetcode challenges.
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/honu5/LeetCode_Daily/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/honu5/LeetCode_Daily/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/honu5/LeetCode_Daily/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,4 +70,8 @@ This is repository for daily leetcode challenges.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1622-fancy-sequence](https://github.com/honu5/LeetCode_Daily/tree/main/1622-fancy-sequence/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/honu5/LeetCode_Daily/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 <!---LeetCode Topics End-->
