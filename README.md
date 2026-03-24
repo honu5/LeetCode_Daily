@@ -10,6 +10,7 @@ This is repository for daily leetcode challenges.
 | [1582-special-positions-in-a-binary-matrix](https://github.com/honu5/LeetCode_Daily/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/honu5/LeetCode_Daily/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/honu5/LeetCode_Daily/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2906-construct-product-matrix](https://github.com/honu5/LeetCode_Daily/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/honu5/LeetCode_Daily/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/honu5/LeetCode_Daily/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Greedy
@@ -24,6 +25,7 @@ This is repository for daily leetcode challenges.
 | [1582-special-positions-in-a-binary-matrix](https://github.com/honu5/LeetCode_Daily/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/honu5/LeetCode_Daily/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/honu5/LeetCode_Daily/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2906-construct-product-matrix](https://github.com/honu5/LeetCode_Daily/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/honu5/LeetCode_Daily/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/honu5/LeetCode_Daily/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## String
@@ -80,6 +82,7 @@ This is repository for daily leetcode challenges.
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2906-construct-product-matrix](https://github.com/honu5/LeetCode_Daily/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/honu5/LeetCode_Daily/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
