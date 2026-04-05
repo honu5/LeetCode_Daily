@@ -44,6 +44,7 @@ This is repository for daily leetcode challenges.
 ## String
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/honu5/LeetCode_Daily/tree/master/0657-robot-return-to-origin) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/honu5/LeetCode_Daily/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/honu5/LeetCode_Daily/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/honu5/LeetCode_Daily/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -125,6 +126,7 @@ This is repository for daily leetcode challenges.
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/honu5/LeetCode_Daily/tree/master/0657-robot-return-to-origin) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/honu5/LeetCode_Daily/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/honu5/LeetCode_Daily/tree/master/2751-robot-collisions) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/honu5/LeetCode_Daily/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
