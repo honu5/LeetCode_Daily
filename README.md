@@ -20,6 +20,7 @@ This is repository for daily leetcode challenges.
 | [3546-equal-sum-grid-partition-i](https://github.com/honu5/LeetCode_Daily/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/honu5/LeetCode_Daily/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3643-flip-square-submatrix-vertically](https://github.com/honu5/LeetCode_Daily/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/honu5/LeetCode_Daily/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/honu5/LeetCode_Daily/tree/master/3661-maximum-walls-destroyed-by-robots) |
 ## Greedy
 |  |
@@ -145,4 +146,8 @@ This is repository for daily leetcode challenges.
 |  |
 | ------- |
 | [2751-robot-collisions](https://github.com/honu5/LeetCode_Daily/tree/master/2751-robot-collisions) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/honu5/LeetCode_Daily/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 <!---LeetCode Topics End-->
