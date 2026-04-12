@@ -49,6 +49,7 @@ This is repository for daily leetcode challenges.
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/honu5/LeetCode_Daily/tree/master/0657-robot-return-to-origin) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/honu5/LeetCode_Daily/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/honu5/LeetCode_Daily/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/honu5/LeetCode_Daily/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/honu5/LeetCode_Daily/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -58,6 +59,7 @@ This is repository for daily leetcode challenges.
 ## Dynamic Programming
 |  |
 | ------- |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/honu5/LeetCode_Daily/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/honu5/LeetCode_Daily/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/honu5/LeetCode_Daily/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/honu5/LeetCode_Daily/tree/main/2573-find-the-string-with-lcp/) | Hard |
