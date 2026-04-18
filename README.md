@@ -109,6 +109,7 @@ This is repository for daily leetcode challenges.
 | [1622-fancy-sequence](https://github.com/honu5/LeetCode_Daily/tree/main/1622-fancy-sequence/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/honu5/LeetCode_Daily/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/honu5/LeetCode_Daily/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3783-mirror-distance-of-an-integer](https://github.com/honu5/LeetCode_Daily/tree/master/3783-mirror-distance-of-an-integer) |
 ## Design
 |  |
 | ------- |
