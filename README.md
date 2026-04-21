@@ -10,6 +10,7 @@ This is repository for daily leetcode challenges.
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/honu5/LeetCode_Daily/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/honu5/LeetCode_Daily/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/honu5/LeetCode_Daily/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/honu5/LeetCode_Daily/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/honu5/LeetCode_Daily/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/honu5/LeetCode_Daily/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/honu5/LeetCode_Daily/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
@@ -93,6 +94,7 @@ This is repository for daily leetcode challenges.
 ## Union-Find
 |  |
 | ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/honu5/LeetCode_Daily/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/honu5/LeetCode_Daily/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/honu5/LeetCode_Daily/tree/main/3600-maximize-spanning-tree-stability-with-upgrades/) | Hard |
 ## Graph Theory
@@ -174,4 +176,8 @@ This is repository for daily leetcode challenges.
 |  |
 | ------- |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/honu5/LeetCode_Daily/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/honu5/LeetCode_Daily/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 <!---LeetCode Topics End-->
