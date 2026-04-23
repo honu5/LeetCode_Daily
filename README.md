@@ -19,6 +19,7 @@ This is repository for daily leetcode challenges.
 | [2463-minimum-total-distance-traveled](https://github.com/honu5/LeetCode_Daily/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/honu5/LeetCode_Daily/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/honu5/LeetCode_Daily/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2615-sum-of-distances](https://github.com/honu5/LeetCode_Daily/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/honu5/LeetCode_Daily/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/honu5/LeetCode_Daily/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/honu5/LeetCode_Daily/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -130,6 +131,7 @@ This is repository for daily leetcode challenges.
 ## Prefix Sum
 |  |
 | ------- |
+| [2615-sum-of-distances](https://github.com/honu5/LeetCode_Daily/tree/master/2615-sum-of-distances) |
 | [2906-construct-product-matrix](https://github.com/honu5/LeetCode_Daily/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/honu5/LeetCode_Daily/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/honu5/LeetCode_Daily/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -148,6 +150,7 @@ This is repository for daily leetcode challenges.
 |  |
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/honu5/LeetCode_Daily/tree/master/0874-walking-robot-simulation) |
+| [2615-sum-of-distances](https://github.com/honu5/LeetCode_Daily/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/honu5/LeetCode_Daily/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/honu5/LeetCode_Daily/tree/master/3488-closest-equal-element-queries) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/honu5/LeetCode_Daily/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
