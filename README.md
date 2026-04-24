@@ -68,6 +68,7 @@ This is repository for daily leetcode challenges.
 | [2452-words-within-two-edits-of-dictionary](https://github.com/honu5/LeetCode_Daily/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/honu5/LeetCode_Daily/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/honu5/LeetCode_Daily/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2833-furthest-point-from-origin](https://github.com/honu5/LeetCode_Daily/tree/master/2833-furthest-point-from-origin) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/honu5/LeetCode_Daily/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Dynamic Programming
 |  |
@@ -189,4 +190,8 @@ This is repository for daily leetcode challenges.
 |  |
 | ------- |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/honu5/LeetCode_Daily/tree/master/2452-words-within-two-edits-of-dictionary) |
+## Counting
+|  |
+| ------- |
+| [2833-furthest-point-from-origin](https://github.com/honu5/LeetCode_Daily/tree/master/2833-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
