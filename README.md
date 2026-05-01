@@ -6,6 +6,7 @@ This is repository for daily leetcode challenges.
 ## Array
 |  |
 | ------- |
+| [0396-rotate-function](https://github.com/honu5/LeetCode_Daily/tree/master/0396-rotate-function) |
 | [0874-walking-robot-simulation](https://github.com/honu5/LeetCode_Daily/tree/master/0874-walking-robot-simulation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/honu5/LeetCode_Daily/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/honu5/LeetCode_Daily/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -84,6 +85,7 @@ This is repository for daily leetcode challenges.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0396-rotate-function](https://github.com/honu5/LeetCode_Daily/tree/master/0396-rotate-function) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/honu5/LeetCode_Daily/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/honu5/LeetCode_Daily/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/honu5/LeetCode_Daily/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -132,6 +134,7 @@ This is repository for daily leetcode challenges.
 ## Math
 |  |
 | ------- |
+| [0396-rotate-function](https://github.com/honu5/LeetCode_Daily/tree/master/0396-rotate-function) |
 | [1622-fancy-sequence](https://github.com/honu5/LeetCode_Daily/tree/main/1622-fancy-sequence/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/honu5/LeetCode_Daily/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/honu5/LeetCode_Daily/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
