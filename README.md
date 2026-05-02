@@ -86,6 +86,7 @@ This is repository for daily leetcode challenges.
 |  |
 | ------- |
 | [0396-rotate-function](https://github.com/honu5/LeetCode_Daily/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/honu5/LeetCode_Daily/tree/master/0788-rotated-digits) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/honu5/LeetCode_Daily/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/honu5/LeetCode_Daily/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/honu5/LeetCode_Daily/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -135,6 +136,7 @@ This is repository for daily leetcode challenges.
 |  |
 | ------- |
 | [0396-rotate-function](https://github.com/honu5/LeetCode_Daily/tree/master/0396-rotate-function) |
+| [0788-rotated-digits](https://github.com/honu5/LeetCode_Daily/tree/master/0788-rotated-digits) |
 | [1622-fancy-sequence](https://github.com/honu5/LeetCode_Daily/tree/main/1622-fancy-sequence/) | Hard |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/honu5/LeetCode_Daily/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/honu5/LeetCode_Daily/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
