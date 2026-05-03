@@ -72,6 +72,7 @@ This is repository for daily leetcode challenges.
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/honu5/LeetCode_Daily/tree/master/0657-robot-return-to-origin) |
+| [0796-rotate-string](https://github.com/honu5/LeetCode_Daily/tree/master/0796-rotate-string) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/honu5/LeetCode_Daily/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/honu5/LeetCode_Daily/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/honu5/LeetCode_Daily/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -231,4 +232,8 @@ This is repository for daily leetcode challenges.
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/honu5/LeetCode_Daily/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/honu5/LeetCode_Daily/tree/master/1559-detect-cycles-in-2d-grid) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/honu5/LeetCode_Daily/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
