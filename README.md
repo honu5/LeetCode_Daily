@@ -6,6 +6,7 @@ This is repository for daily leetcode challenges.
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/honu5/LeetCode_Daily/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/honu5/LeetCode_Daily/tree/master/0396-rotate-function) |
 | [0874-walking-robot-simulation](https://github.com/honu5/LeetCode_Daily/tree/master/0874-walking-robot-simulation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/honu5/LeetCode_Daily/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -51,6 +52,7 @@ This is repository for daily leetcode challenges.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/honu5/LeetCode_Daily/tree/master/0048-rotate-image) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/honu5/LeetCode_Daily/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/honu5/LeetCode_Daily/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/honu5/LeetCode_Daily/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -136,6 +138,7 @@ This is repository for daily leetcode challenges.
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/honu5/LeetCode_Daily/tree/master/0048-rotate-image) |
 | [0396-rotate-function](https://github.com/honu5/LeetCode_Daily/tree/master/0396-rotate-function) |
 | [0788-rotated-digits](https://github.com/honu5/LeetCode_Daily/tree/master/0788-rotated-digits) |
 | [1622-fancy-sequence](https://github.com/honu5/LeetCode_Daily/tree/main/1622-fancy-sequence/) | Hard |
