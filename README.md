@@ -17,6 +17,7 @@ This is repository for daily leetcode challenges.
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/honu5/LeetCode_Daily/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/honu5/LeetCode_Daily/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/honu5/LeetCode_Daily/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/honu5/LeetCode_Daily/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/honu5/LeetCode_Daily/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/honu5/LeetCode_Daily/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/honu5/LeetCode_Daily/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -58,6 +59,7 @@ This is repository for daily leetcode challenges.
 | [1559-detect-cycles-in-2d-grid](https://github.com/honu5/LeetCode_Daily/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/honu5/LeetCode_Daily/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/honu5/LeetCode_Daily/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1861-rotating-the-box](https://github.com/honu5/LeetCode_Daily/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/honu5/LeetCode_Daily/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/honu5/LeetCode_Daily/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/honu5/LeetCode_Daily/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -169,6 +171,7 @@ This is repository for daily leetcode challenges.
 |  |
 | ------- |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/honu5/LeetCode_Daily/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/honu5/LeetCode_Daily/tree/master/1861-rotating-the-box) |
 | [3643-flip-square-submatrix-vertically](https://github.com/honu5/LeetCode_Daily/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Enumeration
 |  |
