@@ -19,6 +19,7 @@ This is repository for daily leetcode challenges.
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/honu5/LeetCode_Daily/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/honu5/LeetCode_Daily/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/honu5/LeetCode_Daily/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [1914-cyclically-rotating-a-grid](https://github.com/honu5/LeetCode_Daily/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/honu5/LeetCode_Daily/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/honu5/LeetCode_Daily/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/honu5/LeetCode_Daily/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -62,6 +63,7 @@ This is repository for daily leetcode challenges.
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/honu5/LeetCode_Daily/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1861-rotating-the-box](https://github.com/honu5/LeetCode_Daily/tree/master/1861-rotating-the-box) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/honu5/LeetCode_Daily/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [1914-cyclically-rotating-a-grid](https://github.com/honu5/LeetCode_Daily/tree/master/1914-cyclically-rotating-a-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/honu5/LeetCode_Daily/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/honu5/LeetCode_Daily/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2906-construct-product-matrix](https://github.com/honu5/LeetCode_Daily/tree/main/2906-construct-product-matrix/) | Medium |
@@ -196,6 +198,7 @@ This is repository for daily leetcode challenges.
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/honu5/LeetCode_Daily/tree/master/0657-robot-return-to-origin) |
 | [0874-walking-robot-simulation](https://github.com/honu5/LeetCode_Daily/tree/master/0874-walking-robot-simulation) |
+| [1914-cyclically-rotating-a-grid](https://github.com/honu5/LeetCode_Daily/tree/master/1914-cyclically-rotating-a-grid) |
 | [2069-walking-robot-simulation-ii](https://github.com/honu5/LeetCode_Daily/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/honu5/LeetCode_Daily/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/honu5/LeetCode_Daily/tree/master/2751-robot-collisions) |
