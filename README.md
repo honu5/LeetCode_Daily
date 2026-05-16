@@ -8,6 +8,7 @@ This is repository for daily leetcode challenges.
 | ------- |
 | [0048-rotate-image](https://github.com/honu5/LeetCode_Daily/tree/master/0048-rotate-image) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/honu5/LeetCode_Daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/honu5/LeetCode_Daily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0396-rotate-function](https://github.com/honu5/LeetCode_Daily/tree/master/0396-rotate-function) |
 | [0874-walking-robot-simulation](https://github.com/honu5/LeetCode_Daily/tree/master/0874-walking-robot-simulation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/honu5/LeetCode_Daily/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -125,6 +126,7 @@ This is repository for daily leetcode challenges.
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/honu5/LeetCode_Daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/honu5/LeetCode_Daily/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/honu5/LeetCode_Daily/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/honu5/LeetCode_Daily/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/honu5/LeetCode_Daily/tree/master/3488-closest-equal-element-queries) |
