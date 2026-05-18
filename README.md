@@ -12,6 +12,7 @@ This is repository for daily leetcode challenges.
 | [0396-rotate-function](https://github.com/honu5/LeetCode_Daily/tree/master/0396-rotate-function) |
 | [0874-walking-robot-simulation](https://github.com/honu5/LeetCode_Daily/tree/master/0874-walking-robot-simulation) |
 | [1306-jump-game-iii](https://github.com/honu5/LeetCode_Daily/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/honu5/LeetCode_Daily/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/honu5/LeetCode_Daily/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/honu5/LeetCode_Daily/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/honu5/LeetCode_Daily/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -199,6 +200,7 @@ This is repository for daily leetcode challenges.
 |  |
 | ------- |
 | [0874-walking-robot-simulation](https://github.com/honu5/LeetCode_Daily/tree/master/0874-walking-robot-simulation) |
+| [1345-jump-game-iv](https://github.com/honu5/LeetCode_Daily/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/honu5/LeetCode_Daily/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2615-sum-of-distances](https://github.com/honu5/LeetCode_Daily/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/honu5/LeetCode_Daily/tree/master/2784-check-if-array-is-good) |
@@ -261,6 +263,7 @@ This is repository for daily leetcode challenges.
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/honu5/LeetCode_Daily/tree/master/1306-jump-game-iii) |
+| [1345-jump-game-iv](https://github.com/honu5/LeetCode_Daily/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/honu5/LeetCode_Daily/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/honu5/LeetCode_Daily/tree/master/1559-detect-cycles-in-2d-grid) |
 ## String Matching
